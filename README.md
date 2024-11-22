@@ -5,7 +5,7 @@
 我们为大家整理提供了一些国内可用的 **ChatGPT中文版**，方便国内用户使用ChatGPT~ <br />
 
 ## 📋目录
-1. [什么是ChatGPT中文版？](#什么是-chatgpt中文版？)
+1. [什么是ChatGPT中文版？](#什么是-chatgpt中文版)
 2. [ChatGPT官网与 ChatGPT中文版的区别](#chatgpt官网与-chatgpt中文版的区别)
 3. [推荐的国内 ChatGPT中文版镜像网站](#推荐的国内-chatgpt中文版镜像网站)
 4. [如何快速开始使用 ChatGPT中文版](#如何快速开始使用-chatgpt中文版)
